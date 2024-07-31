@@ -1,0 +1,310 @@
+2024-07-31 11:24:51,279 | trainer | INFO  |  train.py:58  |  loading pretrain weight
+2024-07-31 11:24:51,881 | trainer | INFO  |  train.py:137  |  Traning Epoch:1/100 Current Batch: 0/16 Total Loss:0.1992 ACC:0.50 lr:0.00100000 
+2024-07-31 11:24:51,882 | trainer | INFO  |  train.py:149  |  class0 acc0.50 recall:1.00 
+2024-07-31 11:24:51,882 | trainer | INFO  |  train.py:149  |  class1 acc0.00 recall:0.00 
+2024-07-31 11:24:51,934 | trainer | INFO  |  train.py:137  |  Traning Epoch:1/100 Current Batch: 1/16 Total Loss:0.2301 ACC:0.25 lr:0.00100000 
+2024-07-31 11:24:51,935 | trainer | INFO  |  train.py:149  |  class0 acc0.25 recall:1.00 
+2024-07-31 11:24:51,935 | trainer | INFO  |  train.py:149  |  class1 acc0.00 recall:0.00 
+2024-07-31 11:24:52,311 | trainer | INFO  |  train.py:137  |  Traning Epoch:1/100 Current Batch: 2/16 Total Loss:0.2266 ACC:0.33 lr:0.00100000 
+2024-07-31 11:24:52,311 | trainer | INFO  |  train.py:149  |  class0 acc0.33 recall:1.00 
+2024-07-31 11:24:52,311 | trainer | INFO  |  train.py:149  |  class1 acc0.00 recall:0.00 
+2024-07-31 11:24:52,670 | trainer | INFO  |  train.py:137  |  Traning Epoch:1/100 Current Batch: 3/16 Total Loss:0.1983 ACC:0.50 lr:0.00100000 
+2024-07-31 11:24:52,670 | trainer | INFO  |  train.py:149  |  class0 acc0.50 recall:1.00 
+2024-07-31 11:24:52,670 | trainer | INFO  |  train.py:149  |  class1 acc0.00 recall:0.00 
+2024-07-31 11:24:53,053 | trainer | INFO  |  train.py:137  |  Traning Epoch:1/100 Current Batch: 4/16 Total Loss:0.1846 ACC:0.60 lr:0.00100000 
+2024-07-31 11:24:53,053 | trainer | INFO  |  train.py:149  |  class0 acc0.60 recall:1.00 
+2024-07-31 11:24:53,053 | trainer | INFO  |  train.py:149  |  class1 acc0.00 recall:0.00 
+2024-07-31 11:24:53,358 | trainer | INFO  |  train.py:137  |  Traning Epoch:1/100 Current Batch: 5/16 Total Loss:0.1946 ACC:0.50 lr:0.00100000 
+2024-07-31 11:24:53,358 | trainer | INFO  |  train.py:149  |  class0 acc0.50 recall:1.00 
+2024-07-31 11:24:53,358 | trainer | INFO  |  train.py:149  |  class1 acc0.00 recall:0.00 
+2024-07-31 11:24:53,711 | trainer | INFO  |  train.py:137  |  Traning Epoch:1/100 Current Batch: 6/16 Total Loss:0.1834 ACC:0.57 lr:0.00100000 
+2024-07-31 11:24:53,711 | trainer | INFO  |  train.py:149  |  class0 acc0.57 recall:1.00 
+2024-07-31 11:24:53,711 | trainer | INFO  |  train.py:149  |  class1 acc0.00 recall:0.00 
+2024-07-31 11:24:54,078 | trainer | INFO  |  train.py:137  |  Traning Epoch:1/100 Current Batch: 7/16 Total Loss:0.1939 ACC:0.50 lr:0.00100000 
+2024-07-31 11:24:54,078 | trainer | INFO  |  train.py:149  |  class0 acc0.50 recall:1.00 
+2024-07-31 11:24:54,078 | trainer | INFO  |  train.py:149  |  class1 acc0.00 recall:0.00 
+2024-07-31 11:24:54,088 | trainer | INFO  |  train.py:137  |  Traning Epoch:1/100 Current Batch: 8/16 Total Loss:0.1849 ACC:0.56 lr:0.00100000 
+2024-07-31 11:24:54,088 | trainer | INFO  |  train.py:149  |  class0 acc0.56 recall:1.00 
+2024-07-31 11:24:54,088 | trainer | INFO  |  train.py:149  |  class1 acc0.00 recall:0.00 
+2024-07-31 11:24:54,098 | trainer | INFO  |  train.py:137  |  Traning Epoch:1/100 Current Batch: 9/16 Total Loss:0.1788 ACC:0.60 lr:0.00100000 
+2024-07-31 11:24:54,099 | trainer | INFO  |  train.py:149  |  class0 acc0.60 recall:1.00 
+2024-07-31 11:24:54,099 | trainer | INFO  |  train.py:149  |  class1 acc0.00 recall:0.00 
+2024-07-31 11:24:54,108 | trainer | INFO  |  train.py:137  |  Traning Epoch:1/100 Current Batch: 10/16 Total Loss:0.1898 ACC:0.59 lr:0.00100000 
+2024-07-31 11:24:54,109 | trainer | INFO  |  train.py:149  |  class0 acc0.57 recall:1.00 
+2024-07-31 11:24:54,109 | trainer | INFO  |  train.py:149  |  class1 acc1.00 recall:0.10 
+2024-07-31 11:24:54,119 | trainer | INFO  |  train.py:137  |  Traning Epoch:1/100 Current Batch: 11/16 Total Loss:0.2051 ACC:0.54 lr:0.00100000 
+2024-07-31 11:24:54,120 | trainer | INFO  |  train.py:149  |  class0 acc0.55 recall:0.92 
+2024-07-31 11:24:54,120 | trainer | INFO  |  train.py:149  |  class1 acc0.50 recall:0.09 
+2024-07-31 11:24:54,130 | trainer | INFO  |  train.py:137  |  Traning Epoch:1/100 Current Batch: 12/16 Total Loss:0.2091 ACC:0.50 lr:0.00100000 
+2024-07-31 11:24:54,130 | trainer | INFO  |  train.py:149  |  class0 acc0.50 recall:0.92 
+2024-07-31 11:24:54,130 | trainer | INFO  |  train.py:149  |  class1 acc0.50 recall:0.08 
+2024-07-31 11:24:54,141 | trainer | INFO  |  train.py:137  |  Traning Epoch:1/100 Current Batch: 13/16 Total Loss:0.2079 ACC:0.50 lr:0.00100000 
+2024-07-31 11:24:54,141 | trainer | INFO  |  train.py:149  |  class0 acc0.50 recall:0.93 
+2024-07-31 11:24:54,141 | trainer | INFO  |  train.py:149  |  class1 acc0.50 recall:0.07 
+2024-07-31 11:24:54,151 | trainer | INFO  |  train.py:137  |  Traning Epoch:1/100 Current Batch: 14/16 Total Loss:0.2101 ACC:0.47 lr:0.00100000 
+2024-07-31 11:24:54,151 | trainer | INFO  |  train.py:149  |  class0 acc0.46 recall:0.93 
+2024-07-31 11:24:54,152 | trainer | INFO  |  train.py:149  |  class1 acc0.50 recall:0.06 
+2024-07-31 11:24:54,163 | trainer | INFO  |  train.py:137  |  Traning Epoch:1/100 Current Batch: 15/16 Total Loss:0.2043 ACC:0.50 lr:0.00100000 
+2024-07-31 11:24:54,163 | trainer | INFO  |  train.py:149  |  class0 acc0.50 recall:0.94 
+2024-07-31 11:24:54,163 | trainer | INFO  |  train.py:149  |  class1 acc0.50 recall:0.06 
+2024-07-31 11:24:54,983 | trainer | INFO  |  train.py:217  |  --------------------------------------------------------------------------------------------------------------------------------
+2024-07-31 11:24:58,610 | trainer | INFO  |  train.py:71  |  Eval ALL ACC:0.00 
+2024-07-31 11:24:58,610 | trainer | INFO  |  train.py:73  |  class0 acc0.00 recall:0.00 
+2024-07-31 11:24:58,610 | trainer | INFO  |  train.py:73  |  class1 acc0.00 recall:0.00 
+2024-07-31 11:24:59,012 | trainer | INFO  |  train.py:137  |  Traning Epoch:2/100 Current Batch: 0/16 Total Loss:0.1496 ACC:0.50 lr:0.00099975 
+2024-07-31 11:24:59,012 | trainer | INFO  |  train.py:149  |  class0 acc0.50 recall:1.00 
+2024-07-31 11:24:59,013 | trainer | INFO  |  train.py:149  |  class1 acc0.00 recall:0.00 
+2024-07-31 11:24:59,365 | trainer | INFO  |  train.py:137  |  Traning Epoch:2/100 Current Batch: 1/16 Total Loss:0.1855 ACC:0.50 lr:0.00099975 
+2024-07-31 11:24:59,365 | trainer | INFO  |  train.py:149  |  class0 acc0.33 recall:1.00 
+2024-07-31 11:24:59,365 | trainer | INFO  |  train.py:149  |  class1 acc1.00 recall:0.33 
+2024-07-31 11:24:59,714 | trainer | INFO  |  train.py:137  |  Traning Epoch:2/100 Current Batch: 2/16 Total Loss:0.1695 ACC:0.67 lr:0.00099975 
+2024-07-31 11:24:59,714 | trainer | INFO  |  train.py:149  |  class0 acc0.50 recall:1.00 
+2024-07-31 11:24:59,714 | trainer | INFO  |  train.py:149  |  class1 acc1.00 recall:0.50 
+2024-07-31 11:25:00,103 | trainer | INFO  |  train.py:137  |  Traning Epoch:2/100 Current Batch: 3/16 Total Loss:0.1735 ACC:0.62 lr:0.00099975 
+2024-07-31 11:25:00,103 | trainer | INFO  |  train.py:149  |  class0 acc0.60 recall:0.75 
+2024-07-31 11:25:00,103 | trainer | INFO  |  train.py:149  |  class1 acc0.67 recall:0.50 
+2024-07-31 11:25:00,450 | trainer | INFO  |  train.py:137  |  Traning Epoch:2/100 Current Batch: 4/16 Total Loss:0.1604 ACC:0.70 lr:0.00099975 
+2024-07-31 11:25:00,451 | trainer | INFO  |  train.py:149  |  class0 acc0.71 recall:0.83 
+2024-07-31 11:25:00,451 | trainer | INFO  |  train.py:149  |  class1 acc0.67 recall:0.50 
+2024-07-31 11:25:00,737 | trainer | INFO  |  train.py:137  |  Traning Epoch:2/100 Current Batch: 5/16 Total Loss:0.1717 ACC:0.58 lr:0.00099975 
+2024-07-31 11:25:00,737 | trainer | INFO  |  train.py:149  |  class0 acc0.56 recall:0.83 
+2024-07-31 11:25:00,737 | trainer | INFO  |  train.py:149  |  class1 acc0.67 recall:0.33 
+2024-07-31 11:25:01,106 | trainer | INFO  |  train.py:137  |  Traning Epoch:2/100 Current Batch: 6/16 Total Loss:0.1723 ACC:0.57 lr:0.00099975 
+2024-07-31 11:25:01,107 | trainer | INFO  |  train.py:149  |  class0 acc0.60 recall:0.75 
+2024-07-31 11:25:01,107 | trainer | INFO  |  train.py:149  |  class1 acc0.50 recall:0.33 
+2024-07-31 11:25:01,429 | trainer | INFO  |  train.py:137  |  Traning Epoch:2/100 Current Batch: 7/16 Total Loss:0.1747 ACC:0.56 lr:0.00099975 
+2024-07-31 11:25:01,429 | trainer | INFO  |  train.py:149  |  class0 acc0.55 recall:0.75 
+2024-07-31 11:25:01,430 | trainer | INFO  |  train.py:149  |  class1 acc0.60 recall:0.37 
+2024-07-31 11:25:01,442 | trainer | INFO  |  train.py:137  |  Traning Epoch:2/100 Current Batch: 8/16 Total Loss:0.1720 ACC:0.56 lr:0.00099975 
+2024-07-31 11:25:01,442 | trainer | INFO  |  train.py:149  |  class0 acc0.58 recall:0.70 
+2024-07-31 11:25:01,442 | trainer | INFO  |  train.py:149  |  class1 acc0.50 recall:0.37 
+2024-07-31 11:25:01,454 | trainer | INFO  |  train.py:137  |  Traning Epoch:2/100 Current Batch: 9/16 Total Loss:0.1686 ACC:0.55 lr:0.00099975 
+2024-07-31 11:25:01,454 | trainer | INFO  |  train.py:149  |  class0 acc0.62 recall:0.67 
+2024-07-31 11:25:01,454 | trainer | INFO  |  train.py:149  |  class1 acc0.43 recall:0.37 
+2024-07-31 11:25:01,464 | trainer | INFO  |  train.py:137  |  Traning Epoch:2/100 Current Batch: 10/16 Total Loss:0.1683 ACC:0.55 lr:0.00099975 
+2024-07-31 11:25:01,464 | trainer | INFO  |  train.py:149  |  class0 acc0.57 recall:0.67 
+2024-07-31 11:25:01,464 | trainer | INFO  |  train.py:149  |  class1 acc0.50 recall:0.40 
+2024-07-31 11:25:01,474 | trainer | INFO  |  train.py:137  |  Traning Epoch:2/100 Current Batch: 11/16 Total Loss:0.1743 ACC:0.50 lr:0.00099975 
+2024-07-31 11:25:01,474 | trainer | INFO  |  train.py:149  |  class0 acc0.53 recall:0.62 
+2024-07-31 11:25:01,474 | trainer | INFO  |  train.py:149  |  class1 acc0.44 recall:0.36 
+2024-07-31 11:25:01,484 | trainer | INFO  |  train.py:137  |  Traning Epoch:2/100 Current Batch: 12/16 Total Loss:0.1749 ACC:0.50 lr:0.00099975 
+2024-07-31 11:25:01,484 | trainer | INFO  |  train.py:149  |  class0 acc0.50 recall:0.62 
+2024-07-31 11:25:01,484 | trainer | INFO  |  train.py:149  |  class1 acc0.50 recall:0.38 
+2024-07-31 11:25:01,494 | trainer | INFO  |  train.py:137  |  Traning Epoch:2/100 Current Batch: 13/16 Total Loss:0.1701 ACC:0.54 lr:0.00099975 
+2024-07-31 11:25:01,494 | trainer | INFO  |  train.py:149  |  class0 acc0.53 recall:0.64 
+2024-07-31 11:25:01,494 | trainer | INFO  |  train.py:149  |  class1 acc0.55 recall:0.43 
+2024-07-31 11:25:01,505 | trainer | INFO  |  train.py:137  |  Traning Epoch:2/100 Current Batch: 14/16 Total Loss:0.1736 ACC:0.50 lr:0.00099975 
+2024-07-31 11:25:01,505 | trainer | INFO  |  train.py:149  |  class0 acc0.47 recall:0.64 
+2024-07-31 11:25:01,505 | trainer | INFO  |  train.py:149  |  class1 acc0.55 recall:0.37 
+2024-07-31 11:25:01,516 | trainer | INFO  |  train.py:137  |  Traning Epoch:2/100 Current Batch: 15/16 Total Loss:0.1737 ACC:0.50 lr:0.00099975 
+2024-07-31 11:25:01,517 | trainer | INFO  |  train.py:149  |  class0 acc0.50 recall:0.62 
+2024-07-31 11:25:01,517 | trainer | INFO  |  train.py:149  |  class1 acc0.50 recall:0.37 
+2024-07-31 11:25:02,321 | trainer | INFO  |  train.py:217  |  --------------------------------------------------------------------------------------------------------------------------------
+2024-07-31 11:25:05,563 | trainer | INFO  |  train.py:71  |  Eval ALL ACC:0.00 
+2024-07-31 11:25:05,580 | trainer | INFO  |  train.py:73  |  class0 acc0.00 recall:0.00 
+2024-07-31 11:25:05,580 | trainer | INFO  |  train.py:73  |  class1 acc0.00 recall:0.00 
+2024-07-31 11:25:05,975 | trainer | INFO  |  train.py:137  |  Traning Epoch:3/100 Current Batch: 0/16 Total Loss:0.0866 ACC:1.00 lr:0.00099901 
+2024-07-31 11:25:05,975 | trainer | INFO  |  train.py:149  |  class0 acc1.00 recall:1.00 
+2024-07-31 11:25:05,975 | trainer | INFO  |  train.py:149  |  class1 acc1.00 recall:1.00 
+2024-07-31 11:25:06,313 | trainer | INFO  |  train.py:137  |  Traning Epoch:3/100 Current Batch: 1/16 Total Loss:0.1029 ACC:0.75 lr:0.00099901 
+2024-07-31 11:25:06,313 | trainer | INFO  |  train.py:149  |  class0 acc0.50 recall:1.00 
+2024-07-31 11:25:06,313 | trainer | INFO  |  train.py:149  |  class1 acc1.00 recall:0.67 
+2024-07-31 11:25:06,664 | trainer | INFO  |  train.py:137  |  Traning Epoch:3/100 Current Batch: 2/16 Total Loss:0.1104 ACC:0.83 lr:0.00099901 
+2024-07-31 11:25:06,664 | trainer | INFO  |  train.py:149  |  class0 acc0.67 recall:1.00 
+2024-07-31 11:25:06,664 | trainer | INFO  |  train.py:149  |  class1 acc1.00 recall:0.75 
+2024-07-31 11:25:07,024 | trainer | INFO  |  train.py:137  |  Traning Epoch:3/100 Current Batch: 3/16 Total Loss:0.1517 ACC:0.75 lr:0.00099901 
+2024-07-31 11:25:07,025 | trainer | INFO  |  train.py:149  |  class0 acc0.75 recall:0.75 
+2024-07-31 11:25:07,025 | trainer | INFO  |  train.py:149  |  class1 acc0.75 recall:0.75 
+2024-07-31 11:25:07,442 | trainer | INFO  |  train.py:137  |  Traning Epoch:3/100 Current Batch: 4/16 Total Loss:0.1622 ACC:0.70 lr:0.00099901 
+2024-07-31 11:25:07,443 | trainer | INFO  |  train.py:149  |  class0 acc0.80 recall:0.67 
+2024-07-31 11:25:07,443 | trainer | INFO  |  train.py:149  |  class1 acc0.60 recall:0.75 
+2024-07-31 11:25:07,715 | trainer | INFO  |  train.py:137  |  Traning Epoch:3/100 Current Batch: 5/16 Total Loss:0.1599 ACC:0.67 lr:0.00099901 
+2024-07-31 11:25:07,715 | trainer | INFO  |  train.py:149  |  class0 acc0.67 recall:0.67 
+2024-07-31 11:25:07,715 | trainer | INFO  |  train.py:149  |  class1 acc0.67 recall:0.67 
+2024-07-31 11:25:08,068 | trainer | INFO  |  train.py:137  |  Traning Epoch:3/100 Current Batch: 6/16 Total Loss:0.1523 ACC:0.71 lr:0.00099901 
+2024-07-31 11:25:08,068 | trainer | INFO  |  train.py:149  |  class0 acc0.75 recall:0.75 
+2024-07-31 11:25:08,068 | trainer | INFO  |  train.py:149  |  class1 acc0.67 recall:0.67 
+2024-07-31 11:25:08,405 | trainer | INFO  |  train.py:137  |  Traning Epoch:3/100 Current Batch: 7/16 Total Loss:0.1538 ACC:0.69 lr:0.00099901 
+2024-07-31 11:25:08,405 | trainer | INFO  |  train.py:149  |  class0 acc0.67 recall:0.75 
+2024-07-31 11:25:08,405 | trainer | INFO  |  train.py:149  |  class1 acc0.71 recall:0.62 
+2024-07-31 11:25:08,416 | trainer | INFO  |  train.py:137  |  Traning Epoch:3/100 Current Batch: 8/16 Total Loss:0.1498 ACC:0.67 lr:0.00099901 
+2024-07-31 11:25:08,416 | trainer | INFO  |  train.py:149  |  class0 acc0.70 recall:0.70 
+2024-07-31 11:25:08,416 | trainer | INFO  |  train.py:149  |  class1 acc0.62 recall:0.62 
+2024-07-31 11:25:08,426 | trainer | INFO  |  train.py:137  |  Traning Epoch:3/100 Current Batch: 9/16 Total Loss:0.1515 ACC:0.65 lr:0.00099901 
+2024-07-31 11:25:08,426 | trainer | INFO  |  train.py:149  |  class0 acc0.73 recall:0.67 
+2024-07-31 11:25:08,426 | trainer | INFO  |  train.py:149  |  class1 acc0.56 recall:0.62 
+2024-07-31 11:25:08,436 | trainer | INFO  |  train.py:137  |  Traning Epoch:3/100 Current Batch: 10/16 Total Loss:0.1554 ACC:0.64 lr:0.00099901 
+2024-07-31 11:25:08,437 | trainer | INFO  |  train.py:149  |  class0 acc0.67 recall:0.67 
+2024-07-31 11:25:08,437 | trainer | INFO  |  train.py:149  |  class1 acc0.60 recall:0.60 
+2024-07-31 11:25:08,447 | trainer | INFO  |  train.py:137  |  Traning Epoch:3/100 Current Batch: 11/16 Total Loss:0.1513 ACC:0.67 lr:0.00099901 
+2024-07-31 11:25:08,447 | trainer | INFO  |  train.py:149  |  class0 acc0.69 recall:0.69 
+2024-07-31 11:25:08,447 | trainer | INFO  |  train.py:149  |  class1 acc0.64 recall:0.64 
+2024-07-31 11:25:08,457 | trainer | INFO  |  train.py:137  |  Traning Epoch:3/100 Current Batch: 12/16 Total Loss:0.1510 ACC:0.65 lr:0.00099901 
+2024-07-31 11:25:08,457 | trainer | INFO  |  train.py:149  |  class0 acc0.64 recall:0.69 
+2024-07-31 11:25:08,457 | trainer | INFO  |  train.py:149  |  class1 acc0.67 recall:0.62 
+2024-07-31 11:25:08,468 | trainer | INFO  |  train.py:137  |  Traning Epoch:3/100 Current Batch: 13/16 Total Loss:0.1457 ACC:0.68 lr:0.00099901 
+2024-07-31 11:25:08,468 | trainer | INFO  |  train.py:149  |  class0 acc0.67 recall:0.71 
+2024-07-31 11:25:08,468 | trainer | INFO  |  train.py:149  |  class1 acc0.69 recall:0.64 
+2024-07-31 11:25:08,478 | trainer | INFO  |  train.py:137  |  Traning Epoch:3/100 Current Batch: 14/16 Total Loss:0.1507 ACC:0.67 lr:0.00099901 
+2024-07-31 11:25:08,478 | trainer | INFO  |  train.py:149  |  class0 acc0.62 recall:0.71 
+2024-07-31 11:25:08,478 | trainer | INFO  |  train.py:149  |  class1 acc0.71 recall:0.62 
+2024-07-31 11:25:08,489 | trainer | INFO  |  train.py:137  |  Traning Epoch:3/100 Current Batch: 15/16 Total Loss:0.1499 ACC:0.69 lr:0.00099901 
+2024-07-31 11:25:08,489 | trainer | INFO  |  train.py:149  |  class0 acc0.67 recall:0.75 
+2024-07-31 11:25:08,490 | trainer | INFO  |  train.py:149  |  class1 acc0.71 recall:0.62 
+2024-07-31 11:25:09,290 | trainer | INFO  |  train.py:217  |  --------------------------------------------------------------------------------------------------------------------------------
+2024-07-31 11:25:12,542 | trainer | INFO  |  train.py:71  |  Eval ALL ACC:0.00 
+2024-07-31 11:25:12,542 | trainer | INFO  |  train.py:73  |  class0 acc0.00 recall:0.00 
+2024-07-31 11:25:12,542 | trainer | INFO  |  train.py:73  |  class1 acc0.00 recall:0.00 
+2024-07-31 11:25:12,935 | trainer | INFO  |  train.py:137  |  Traning Epoch:4/100 Current Batch: 0/16 Total Loss:0.0682 ACC:1.00 lr:0.00099778 
+2024-07-31 11:25:12,936 | trainer | INFO  |  train.py:149  |  class0 acc1.00 recall:1.00 
+2024-07-31 11:25:12,936 | trainer | INFO  |  train.py:149  |  class1 acc1.00 recall:1.00 
+2024-07-31 11:25:13,290 | trainer | INFO  |  train.py:137  |  Traning Epoch:4/100 Current Batch: 1/16 Total Loss:0.1598 ACC:0.75 lr:0.00099778 
+2024-07-31 11:25:13,290 | trainer | INFO  |  train.py:149  |  class0 acc0.50 recall:1.00 
+2024-07-31 11:25:13,290 | trainer | INFO  |  train.py:149  |  class1 acc1.00 recall:0.67 
+2024-07-31 11:25:13,626 | trainer | INFO  |  train.py:137  |  Traning Epoch:4/100 Current Batch: 2/16 Total Loss:0.1273 ACC:0.83 lr:0.00099778 
+2024-07-31 11:25:13,626 | trainer | INFO  |  train.py:149  |  class0 acc0.67 recall:1.00 
+2024-07-31 11:25:13,626 | trainer | INFO  |  train.py:149  |  class1 acc1.00 recall:0.75 
+2024-07-31 11:25:13,994 | trainer | INFO  |  train.py:137  |  Traning Epoch:4/100 Current Batch: 3/16 Total Loss:0.1687 ACC:0.75 lr:0.00099778 
+2024-07-31 11:25:13,994 | trainer | INFO  |  train.py:149  |  class0 acc0.75 recall:0.75 
+2024-07-31 11:25:13,994 | trainer | INFO  |  train.py:149  |  class1 acc0.75 recall:0.75 
+2024-07-31 11:25:14,355 | trainer | INFO  |  train.py:137  |  Traning Epoch:4/100 Current Batch: 4/16 Total Loss:0.1653 ACC:0.70 lr:0.00099778 
+2024-07-31 11:25:14,356 | trainer | INFO  |  train.py:149  |  class0 acc0.80 recall:0.67 
+2024-07-31 11:25:14,356 | trainer | INFO  |  train.py:149  |  class1 acc0.60 recall:0.75 
+2024-07-31 11:25:14,646 | trainer | INFO  |  train.py:137  |  Traning Epoch:4/100 Current Batch: 5/16 Total Loss:0.1630 ACC:0.67 lr:0.00099778 
+2024-07-31 11:25:14,646 | trainer | INFO  |  train.py:149  |  class0 acc0.67 recall:0.67 
+2024-07-31 11:25:14,646 | trainer | INFO  |  train.py:149  |  class1 acc0.67 recall:0.67 
+2024-07-31 11:25:15,028 | trainer | INFO  |  train.py:137  |  Traning Epoch:4/100 Current Batch: 6/16 Total Loss:0.1730 ACC:0.64 lr:0.00099778 
+2024-07-31 11:25:15,028 | trainer | INFO  |  train.py:149  |  class0 acc0.71 recall:0.62 
+2024-07-31 11:25:15,028 | trainer | INFO  |  train.py:149  |  class1 acc0.57 recall:0.67 
+2024-07-31 11:25:15,342 | trainer | INFO  |  train.py:137  |  Traning Epoch:4/100 Current Batch: 7/16 Total Loss:0.1718 ACC:0.62 lr:0.00099778 
+2024-07-31 11:25:15,342 | trainer | INFO  |  train.py:149  |  class0 acc0.62 recall:0.62 
+2024-07-31 11:25:15,342 | trainer | INFO  |  train.py:149  |  class1 acc0.62 recall:0.62 
+2024-07-31 11:25:15,353 | trainer | INFO  |  train.py:137  |  Traning Epoch:4/100 Current Batch: 8/16 Total Loss:0.1670 ACC:0.67 lr:0.00099778 
+2024-07-31 11:25:15,353 | trainer | INFO  |  train.py:149  |  class0 acc0.70 recall:0.70 
+2024-07-31 11:25:15,353 | trainer | INFO  |  train.py:149  |  class1 acc0.62 recall:0.62 
+2024-07-31 11:25:15,364 | trainer | INFO  |  train.py:137  |  Traning Epoch:4/100 Current Batch: 9/16 Total Loss:0.1635 ACC:0.70 lr:0.00099778 
+2024-07-31 11:25:15,364 | trainer | INFO  |  train.py:149  |  class0 acc0.75 recall:0.75 
+2024-07-31 11:25:15,365 | trainer | INFO  |  train.py:149  |  class1 acc0.62 recall:0.62 
+2024-07-31 11:25:15,375 | trainer | INFO  |  train.py:137  |  Traning Epoch:4/100 Current Batch: 10/16 Total Loss:0.1606 ACC:0.68 lr:0.00099778 
+2024-07-31 11:25:15,375 | trainer | INFO  |  train.py:149  |  class0 acc0.69 recall:0.75 
+2024-07-31 11:25:15,375 | trainer | INFO  |  train.py:149  |  class1 acc0.67 recall:0.60 
+2024-07-31 11:25:15,385 | trainer | INFO  |  train.py:137  |  Traning Epoch:4/100 Current Batch: 11/16 Total Loss:0.1620 ACC:0.67 lr:0.00099778 
+2024-07-31 11:25:15,385 | trainer | INFO  |  train.py:149  |  class0 acc0.69 recall:0.69 
+2024-07-31 11:25:15,386 | trainer | INFO  |  train.py:149  |  class1 acc0.64 recall:0.64 
+2024-07-31 11:25:15,396 | trainer | INFO  |  train.py:137  |  Traning Epoch:4/100 Current Batch: 12/16 Total Loss:0.1568 ACC:0.69 lr:0.00099778 
+2024-07-31 11:25:15,396 | trainer | INFO  |  train.py:149  |  class0 acc0.69 recall:0.69 
+2024-07-31 11:25:15,396 | trainer | INFO  |  train.py:149  |  class1 acc0.69 recall:0.69 
+2024-07-31 11:25:15,406 | trainer | INFO  |  train.py:137  |  Traning Epoch:4/100 Current Batch: 13/16 Total Loss:0.1564 ACC:0.68 lr:0.00099778 
+2024-07-31 11:25:15,406 | trainer | INFO  |  train.py:149  |  class0 acc0.69 recall:0.64 
+2024-07-31 11:25:15,406 | trainer | INFO  |  train.py:149  |  class1 acc0.67 recall:0.71 
+2024-07-31 11:25:15,417 | trainer | INFO  |  train.py:137  |  Traning Epoch:4/100 Current Batch: 14/16 Total Loss:0.1603 ACC:0.63 lr:0.00099778 
+2024-07-31 11:25:15,417 | trainer | INFO  |  train.py:149  |  class0 acc0.60 recall:0.64 
+2024-07-31 11:25:15,417 | trainer | INFO  |  train.py:149  |  class1 acc0.67 recall:0.62 
+2024-07-31 11:25:15,428 | trainer | INFO  |  train.py:137  |  Traning Epoch:4/100 Current Batch: 15/16 Total Loss:0.1586 ACC:0.66 lr:0.00099778 
+2024-07-31 11:25:15,428 | trainer | INFO  |  train.py:149  |  class0 acc0.65 recall:0.69 
+2024-07-31 11:25:15,428 | trainer | INFO  |  train.py:149  |  class1 acc0.67 recall:0.62 
+2024-07-31 11:25:16,251 | trainer | INFO  |  train.py:217  |  --------------------------------------------------------------------------------------------------------------------------------
+2024-07-31 11:25:19,869 | trainer | INFO  |  train.py:71  |  Eval ALL ACC:1.00 
+2024-07-31 11:25:19,870 | trainer | INFO  |  train.py:73  |  class0 acc0.00 recall:0.00 
+2024-07-31 11:25:19,870 | trainer | INFO  |  train.py:73  |  class1 acc1.00 recall:1.00 
+2024-07-31 11:25:20,292 | trainer | INFO  |  train.py:137  |  Traning Epoch:5/100 Current Batch: 0/16 Total Loss:0.1506 ACC:0.50 lr:0.00099606 
+2024-07-31 11:25:20,292 | trainer | INFO  |  train.py:149  |  class0 acc0.00 recall:0.00 
+2024-07-31 11:25:20,292 | trainer | INFO  |  train.py:149  |  class1 acc0.50 recall:1.00 
+2024-07-31 11:25:20,617 | trainer | INFO  |  train.py:137  |  Traning Epoch:5/100 Current Batch: 1/16 Total Loss:0.1163 ACC:0.75 lr:0.00099606 
+2024-07-31 11:25:20,617 | trainer | INFO  |  train.py:149  |  class0 acc0.00 recall:0.00 
+2024-07-31 11:25:20,617 | trainer | INFO  |  train.py:149  |  class1 acc0.75 recall:1.00 
+2024-07-31 11:25:20,968 | trainer | INFO  |  train.py:137  |  Traning Epoch:5/100 Current Batch: 2/16 Total Loss:0.1262 ACC:0.83 lr:0.00099606 
+2024-07-31 11:25:20,968 | trainer | INFO  |  train.py:149  |  class0 acc1.00 recall:0.50 
+2024-07-31 11:25:20,968 | trainer | INFO  |  train.py:149  |  class1 acc0.80 recall:1.00 
+2024-07-31 11:25:21,304 | trainer | INFO  |  train.py:137  |  Traning Epoch:5/100 Current Batch: 3/16 Total Loss:0.1469 ACC:0.75 lr:0.00099606 
+2024-07-31 11:25:21,305 | trainer | INFO  |  train.py:149  |  class0 acc1.00 recall:0.50 
+2024-07-31 11:25:21,305 | trainer | INFO  |  train.py:149  |  class1 acc0.67 recall:1.00 
+2024-07-31 11:25:21,707 | trainer | INFO  |  train.py:137  |  Traning Epoch:5/100 Current Batch: 4/16 Total Loss:0.1366 ACC:0.80 lr:0.00099606 
+2024-07-31 11:25:21,708 | trainer | INFO  |  train.py:149  |  class0 acc1.00 recall:0.67 
+2024-07-31 11:25:21,708 | trainer | INFO  |  train.py:149  |  class1 acc0.67 recall:1.00 
+2024-07-31 11:25:21,977 | trainer | INFO  |  train.py:137  |  Traning Epoch:5/100 Current Batch: 5/16 Total Loss:0.1432 ACC:0.75 lr:0.00099606 
+2024-07-31 11:25:21,977 | trainer | INFO  |  train.py:149  |  class0 acc0.80 recall:0.67 
+2024-07-31 11:25:21,977 | trainer | INFO  |  train.py:149  |  class1 acc0.71 recall:0.83 
+2024-07-31 11:25:22,348 | trainer | INFO  |  train.py:137  |  Traning Epoch:5/100 Current Batch: 6/16 Total Loss:0.1425 ACC:0.79 lr:0.00099606 
+2024-07-31 11:25:22,348 | trainer | INFO  |  train.py:149  |  class0 acc0.86 recall:0.75 
+2024-07-31 11:25:22,349 | trainer | INFO  |  train.py:149  |  class1 acc0.71 recall:0.83 
+2024-07-31 11:25:22,683 | trainer | INFO  |  train.py:137  |  Traning Epoch:5/100 Current Batch: 7/16 Total Loss:0.1525 ACC:0.75 lr:0.00099606 
+2024-07-31 11:25:22,684 | trainer | INFO  |  train.py:149  |  class0 acc0.75 recall:0.75 
+2024-07-31 11:25:22,684 | trainer | INFO  |  train.py:149  |  class1 acc0.75 recall:0.75 
+2024-07-31 11:25:22,694 | trainer | INFO  |  train.py:137  |  Traning Epoch:5/100 Current Batch: 8/16 Total Loss:0.1518 ACC:0.78 lr:0.00099606 
+2024-07-31 11:25:22,694 | trainer | INFO  |  train.py:149  |  class0 acc0.80 recall:0.80 
+2024-07-31 11:25:22,694 | trainer | INFO  |  train.py:149  |  class1 acc0.75 recall:0.75 
+2024-07-31 11:25:22,705 | trainer | INFO  |  train.py:137  |  Traning Epoch:5/100 Current Batch: 9/16 Total Loss:0.1462 ACC:0.80 lr:0.00099606 
+2024-07-31 11:25:22,705 | trainer | INFO  |  train.py:149  |  class0 acc0.83 recall:0.83 
+2024-07-31 11:25:22,705 | trainer | INFO  |  train.py:149  |  class1 acc0.75 recall:0.75 
+2024-07-31 11:25:22,715 | trainer | INFO  |  train.py:137  |  Traning Epoch:5/100 Current Batch: 10/16 Total Loss:0.1429 ACC:0.82 lr:0.00099606 
+2024-07-31 11:25:22,715 | trainer | INFO  |  train.py:149  |  class0 acc0.83 recall:0.83 
+2024-07-31 11:25:22,715 | trainer | INFO  |  train.py:149  |  class1 acc0.80 recall:0.80 
+2024-07-31 11:25:22,725 | trainer | INFO  |  train.py:137  |  Traning Epoch:5/100 Current Batch: 11/16 Total Loss:0.1443 ACC:0.79 lr:0.00099606 
+2024-07-31 11:25:22,725 | trainer | INFO  |  train.py:149  |  class0 acc0.83 recall:0.77 
+2024-07-31 11:25:22,725 | trainer | INFO  |  train.py:149  |  class1 acc0.75 recall:0.82 
+2024-07-31 11:25:22,736 | trainer | INFO  |  train.py:137  |  Traning Epoch:5/100 Current Batch: 12/16 Total Loss:0.1386 ACC:0.81 lr:0.00099606 
+2024-07-31 11:25:22,736 | trainer | INFO  |  train.py:149  |  class0 acc0.83 recall:0.77 
+2024-07-31 11:25:22,736 | trainer | INFO  |  train.py:149  |  class1 acc0.79 recall:0.85 
+2024-07-31 11:25:22,746 | trainer | INFO  |  train.py:137  |  Traning Epoch:5/100 Current Batch: 13/16 Total Loss:0.1389 ACC:0.79 lr:0.00099606 
+2024-07-31 11:25:22,746 | trainer | INFO  |  train.py:149  |  class0 acc0.83 recall:0.71 
+2024-07-31 11:25:22,746 | trainer | INFO  |  train.py:149  |  class1 acc0.75 recall:0.86 
+2024-07-31 11:25:22,756 | trainer | INFO  |  train.py:137  |  Traning Epoch:5/100 Current Batch: 14/16 Total Loss:0.1360 ACC:0.80 lr:0.00099606 
+2024-07-31 11:25:22,756 | trainer | INFO  |  train.py:149  |  class0 acc0.83 recall:0.71 
+2024-07-31 11:25:22,756 | trainer | INFO  |  train.py:149  |  class1 acc0.78 recall:0.87 
+2024-07-31 11:25:22,768 | trainer | INFO  |  train.py:137  |  Traning Epoch:5/100 Current Batch: 15/16 Total Loss:0.1366 ACC:0.81 lr:0.00099606 
+2024-07-31 11:25:22,768 | trainer | INFO  |  train.py:149  |  class0 acc0.86 recall:0.75 
+2024-07-31 11:25:22,768 | trainer | INFO  |  train.py:149  |  class1 acc0.78 recall:0.87 
+2024-07-31 11:25:23,595 | trainer | INFO  |  train.py:217  |  --------------------------------------------------------------------------------------------------------------------------------
+2024-07-31 11:25:27,228 | trainer | INFO  |  train.py:71  |  Eval ALL ACC:1.00 
+2024-07-31 11:25:27,228 | trainer | INFO  |  train.py:73  |  class0 acc0.00 recall:0.00 
+2024-07-31 11:25:27,228 | trainer | INFO  |  train.py:73  |  class1 acc1.00 recall:1.00 
+2024-07-31 11:25:27,603 | trainer | INFO  |  train.py:137  |  Traning Epoch:6/100 Current Batch: 0/16 Total Loss:0.0677 ACC:1.00 lr:0.00099384 
+2024-07-31 11:25:27,604 | trainer | INFO  |  train.py:149  |  class0 acc1.00 recall:1.00 
+2024-07-31 11:25:27,604 | trainer | INFO  |  train.py:149  |  class1 acc1.00 recall:1.00 
+2024-07-31 11:25:27,933 | trainer | INFO  |  train.py:137  |  Traning Epoch:6/100 Current Batch: 1/16 Total Loss:0.0654 ACC:1.00 lr:0.00099384 
+2024-07-31 11:25:27,933 | trainer | INFO  |  train.py:149  |  class0 acc1.00 recall:1.00 
+2024-07-31 11:25:27,933 | trainer | INFO  |  train.py:149  |  class1 acc1.00 recall:1.00 
+2024-07-31 11:25:28,279 | trainer | INFO  |  train.py:137  |  Traning Epoch:6/100 Current Batch: 2/16 Total Loss:0.0843 ACC:0.83 lr:0.00099384 
+2024-07-31 11:25:28,279 | trainer | INFO  |  train.py:149  |  class0 acc1.00 recall:0.50 
+2024-07-31 11:25:28,279 | trainer | INFO  |  train.py:149  |  class1 acc0.80 recall:1.00 
+2024-07-31 11:25:28,636 | trainer | INFO  |  train.py:137  |  Traning Epoch:6/100 Current Batch: 3/16 Total Loss:0.1856 ACC:0.62 lr:0.00099384 
+2024-07-31 11:25:28,636 | trainer | INFO  |  train.py:149  |  class0 acc1.00 recall:0.25 
+2024-07-31 11:25:28,636 | trainer | INFO  |  train.py:149  |  class1 acc0.57 recall:1.00 
+2024-07-31 11:25:29,004 | trainer | INFO  |  train.py:137  |  Traning Epoch:6/100 Current Batch: 4/16 Total Loss:0.1928 ACC:0.60 lr:0.00099384 
+2024-07-31 11:25:29,004 | trainer | INFO  |  train.py:149  |  class0 acc1.00 recall:0.33 
+2024-07-31 11:25:29,004 | trainer | INFO  |  train.py:149  |  class1 acc0.50 recall:1.00 
+2024-07-31 11:25:29,325 | trainer | INFO  |  train.py:137  |  Traning Epoch:6/100 Current Batch: 5/16 Total Loss:0.1776 ACC:0.67 lr:0.00099384 
+2024-07-31 11:25:29,325 | trainer | INFO  |  train.py:149  |  class0 acc1.00 recall:0.33 
+2024-07-31 11:25:29,325 | trainer | INFO  |  train.py:149  |  class1 acc0.60 recall:1.00 
+2024-07-31 11:25:29,689 | trainer | INFO  |  train.py:137  |  Traning Epoch:6/100 Current Batch: 6/16 Total Loss:0.1834 ACC:0.64 lr:0.00099384 
+2024-07-31 11:25:29,689 | trainer | INFO  |  train.py:149  |  class0 acc1.00 recall:0.37 
+2024-07-31 11:25:29,689 | trainer | INFO  |  train.py:149  |  class1 acc0.55 recall:1.00 
+2024-07-31 11:25:30,045 | trainer | INFO  |  train.py:137  |  Traning Epoch:6/100 Current Batch: 7/16 Total Loss:0.1813 ACC:0.62 lr:0.00099384 
+2024-07-31 11:25:30,046 | trainer | INFO  |  train.py:149  |  class0 acc0.75 recall:0.37 
+2024-07-31 11:25:30,046 | trainer | INFO  |  train.py:149  |  class1 acc0.58 recall:0.87 
+2024-07-31 11:25:30,056 | trainer | INFO  |  train.py:137  |  Traning Epoch:6/100 Current Batch: 8/16 Total Loss:0.1754 ACC:0.61 lr:0.00099384 
+2024-07-31 11:25:30,056 | trainer | INFO  |  train.py:149  |  class0 acc0.80 recall:0.40 
+2024-07-31 11:25:30,056 | trainer | INFO  |  train.py:149  |  class1 acc0.54 recall:0.87 
+2024-07-31 11:25:30,067 | trainer | INFO  |  train.py:137  |  Traning Epoch:6/100 Current Batch: 9/16 Total Loss:0.1707 ACC:0.60 lr:0.00099384 
+2024-07-31 11:25:30,067 | trainer | INFO  |  train.py:149  |  class0 acc0.83 recall:0.42 
+2024-07-31 11:25:30,067 | trainer | INFO  |  train.py:149  |  class1 acc0.50 recall:0.87 
+2024-07-31 11:25:30,077 | trainer | INFO  |  train.py:137  |  Traning Epoch:6/100 Current Batch: 10/16 Total Loss:0.1733 ACC:0.59 lr:0.00099384 
+2024-07-31 11:25:30,077 | trainer | INFO  |  train.py:149  |  class0 acc0.71 recall:0.42 
+2024-07-31 11:25:30,077 | trainer | INFO  |  train.py:149  |  class1 acc0.53 recall:0.80 
+2024-07-31 11:25:30,087 | trainer | INFO  |  train.py:137  |  Traning Epoch:6/100 Current Batch: 11/16 Total Loss:0.1679 ACC:0.58 lr:0.00099384 
+2024-07-31 11:25:30,087 | trainer | INFO  |  train.py:149  |  class0 acc0.67 recall:0.46 
+2024-07-31 11:25:30,088 | trainer | INFO  |  train.py:149  |  class1 acc0.53 recall:0.73 
+2024-07-31 11:25:30,099 | trainer | INFO  |  train.py:137  |  Traning Epoch:6/100 Current Batch: 12/16 Total Loss:0.1673 ACC:0.62 lr:0.00099384 
+2024-07-31 11:25:30,099 | trainer | INFO  |  train.py:149  |  class0 acc0.67 recall:0.46 
+2024-07-31 11:25:30,099 | trainer | INFO  |  train.py:149  |  class1 acc0.59 recall:0.77 
+2024-07-31 11:25:30,109 | trainer | INFO  |  train.py:137  |  Traning Epoch:6/100 Current Batch: 13/16 Total Loss:0.1624 ACC:0.64 lr:0.00099384 
+2024-07-31 11:25:30,109 | trainer | INFO  |  train.py:149  |  class0 acc0.70 recall:0.50 
+2024-07-31 11:25:30,109 | trainer | INFO  |  train.py:149  |  class1 acc0.61 recall:0.79 
+2024-07-31 11:25:30,120 | trainer | INFO  |  train.py:137  |  Traning Epoch:6/100 Current Batch: 14/16 Total Loss:0.1608 ACC:0.67 lr:0.00099384 
+2024-07-31 11:25:30,120 | trainer | INFO  |  train.py:149  |  class0 acc0.70 recall:0.50 
+2024-07-31 11:25:30,120 | trainer | INFO  |  train.py:149  |  class1 acc0.65 recall:0.81 
+2024-07-31 11:25:30,132 | trainer | INFO  |  train.py:137  |  Traning Epoch:6/100 Current Batch: 15/16 Total Loss:0.1626 ACC:0.66 lr:0.00099384 
+2024-07-31 11:25:30,132 | trainer | INFO  |  train.py:149  |  class0 acc0.73 recall:0.50 
+2024-07-31 11:25:30,132 | trainer | INFO  |  train.py:149  |  class1 acc0.62 recall:0.81 
+2024-07-31 11:25:30,959 | trainer | INFO  |  train.py:217  |  --------------------------------------------------------------------------------------------------------------------------------
