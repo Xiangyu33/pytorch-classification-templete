@@ -41,7 +41,7 @@ modify the `demo.py` root and weight path
 python main/demo.py
 ```
 
-5. convert onnx
+5. convert onnx  
 modify the weight path and generate onnx
 ```bash 
 python main/deploy.py 
