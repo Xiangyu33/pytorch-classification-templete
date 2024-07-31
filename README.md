@@ -36,5 +36,13 @@ your train weights will be saved in `expriments` dir,named with `time_stamp: YYY
 the `log` and `eval_badcase` will be saved in `log dir`,you can review the train log.
 
 4. inference  
+modify the `demo.py` root and weight path
+```bash 
+python main/demo.py
+```
 
-
+5. convert onnx
+modify the weight path and generate onnx
+```bash 
+python main/deploy.py 
+```
